@@ -1,0 +1,19 @@
+{
+  "_id": null,
+  "dateStarted": "2016-02-21T11:16:29.058Z",
+  "dateCompleted": "2016-02-21T11:24:02.477Z",
+  "user": "id",
+  "status": "finished",
+  "testId": "testId",
+  "results": [{
+    "id": "q1",
+    "duration": 10015,
+    "answer": "b",
+    "correct": true
+  }, {
+    "id": "q2",
+    "duration": 11250,
+    "answer": "a",
+    "correct": false
+  }]
+}

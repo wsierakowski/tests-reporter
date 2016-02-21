@@ -1,0 +1,11 @@
+{
+  "name": "testreporter",
+  "version": "0.1.0",
+  "description": "Testreporter reports on your progress resolving tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wojciech@sierakowski.eu",
+  "license": "ISC"
+}
